@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+
+# Claude specific (do not upload if placed inside skill dir)
+# Only upload the skill content, not internal work files
