@@ -273,7 +273,7 @@ description: |
 
 当用户询问具体食物、地区、或想在纪录片中寻找依据时，使用本知识库。
 
-**知识库位置**：`references/knowledge-index.md`（已建立全部33集索引）
+**知识库位置**：`references/research/knowledge-index.md`（已建立全部33集索引）
 
 **覆盖范围**：
 - 《舌尖上的中国》第1-2季（解说文案）
