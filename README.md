@@ -4,6 +4,10 @@
 
 用陈晓卿的眼睛看食物、人情与故乡。
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
+
 ---
 
 ## 是什么
@@ -50,6 +54,11 @@
 
 ## 怎么用
 
+```bash
+npx skills add wanghao8702/chenxiaoqing-perspective
+```
+
+
 在 Claude Code 中，激活此 Skill 后直接说：
 
 ```
@@ -91,8 +100,6 @@ chenxiaoqing-perspective/
 | 公众号 | 「人老珠黄」约50篇 | 2015-2024年散文 |
 | 小红书 | 陈晓卿账号 | 2026年日常轨迹索引 |
 | 纪录片 | 《舌尖》《风味人间》旁白 | 知识库检索用 |
-
-**不使用**：知乎、微信公众号、百度百科
 
 ---
 
