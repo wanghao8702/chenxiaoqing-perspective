@@ -86,8 +86,15 @@ chenxiaoqing-perspective/
     │   ├── 03-expression-dna.md  # 表达DNA详细分析
     │   ├── 04-external-views.md  # 外部评价与局限
     │   ├── 05-decisions.md       # 关键决策节点
-    │   └── 06-timeline.md        # 人生时间线
-    └── sources/                   # 一手素材（用户提供）
+    │   ├── 06-timeline.md        # 人生时间线
+    │   └── knowledge-index.md     # 纪录片集数索引
+    └── sources/
+        └── transcripts/           # 纪录片解说原文（29集）
+            ├── 《舌尖上的中国》解说文案.md
+            ├── 《风味人间1》01-08.md
+            ├── 《风味人间2》01-08.md
+            ├── 《风味人间3》01-07.md
+            └── 《风味人间4》01-06.md
 ```
 
 ---
@@ -99,7 +106,7 @@ chenxiaoqing-perspective/
 | 书 | 《吃着吃着就老了》（2024） | 核心一手来源 |
 | 公众号 | 「人老珠黄」约50篇 | 2015-2024年散文 |
 | 小红书 | 陈晓卿账号 | 2026年日常轨迹索引 |
-| 纪录片 | 《舌尖》《风味人间》旁白 | 知识库检索用 |
+| 纪录片 | 《舌尖》《风味人间》解说原文 | 已收入 sources/transcripts/，共29集 |
 
 ---
 

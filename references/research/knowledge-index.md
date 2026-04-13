@@ -2,7 +2,7 @@
 
 > 本索引覆盖《舌尖上的中国》（1-2季）与《风味人间》（1-4季）全部解说文案。
 > 用于：当用户询问某食物/某地区/某集内容时，可检索本索引定位具体集数，再引用对应解说原文。
-> 原始文案路径：`D:\My Obsidian\2-personal\撰写美食类文案\chenxiaoqing\Documentary\`
+> 原始文案路径：`references/sources/transcripts/`（已随 Skill 包一同分发）
 
 ---
 
