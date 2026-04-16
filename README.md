@@ -1,8 +1,8 @@
-# 陈晓卿 · SKILL
+# 陈晓卿 · 食物美学
 
 > 「最好吃的永远是人。」——陈晓卿
 
-用陈晓卿的眼睛看食物、人情与故乡。
+用陈晓卿的眼睛，看食物、人情与故乡。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
